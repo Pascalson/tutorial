@@ -9,3 +9,6 @@ git commit -m "<message>"
 ---------------------------------------
 git remote add <name> <url>
 git push -u <repository_name> <branch>
+git clone <repository_url> <local_directory>
+git pull %learning...
+ 
