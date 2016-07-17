@@ -1,4 +1,8 @@
-This is a git tutorial for myself.
+#Tutorial
+##Reading Papers:
+- Deep Reinforcement Learning for Dialogue Generation, 2016
+- Dialog-based Language Learning, 2016
+##Git Notes.
 git config --global user.name ""
 git config --global user.email ""
 git config --global alias.co checkout
@@ -7,8 +11,8 @@ git log
 git add <file>
 git commit -m "<message>"
 ---------------------------------------
-git remote add <name> <url>
-git push -u <repository_name> <branch>
+git remote add <alias-name> <url>
+git push -u <alias-name> <branch>
 git clone <repository_url> <local_directory>
-git pull %learning...
- 
+git pull <alias-name> <branch>
+
