@@ -2,6 +2,9 @@
 ##Reading Papers:
 - Deep Reinforcement Learning for Dialogue Generation, 2016
 - Dialog-based Language Learning, 2016
+- Strategic Dialogue Management via Deep Reinforcement Learning, 2015
+- Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks, 2016
+- Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning, 2015
 
 ##Git Notes:
 - http://www.ithome.com.tw/news/95283
