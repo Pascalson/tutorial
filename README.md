@@ -8,6 +8,7 @@
 
 ##Git Notes:
 - http://www.ithome.com.tw/news/95283
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - git config --global user.name ""
 - git config --global user.email ""
 - git config --global alias.co checkout
