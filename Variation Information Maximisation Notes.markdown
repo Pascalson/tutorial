@@ -20,3 +20,5 @@
 - Then, we can get the big episilon
 
 ##Optimization
+
+##How to apply on training RL?
