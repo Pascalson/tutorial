@@ -12,5 +12,11 @@ Reference: Curiosity-driven Exploration in Deep Reinforcement Learning via Bayes
 ####Preliminaries
 ####Curiosity: theoretical foundation
 ####Variational Bayes: Adapt curiosity to continuous control
+- Tractable solution: derive distribution by Bayes' rule
+- Integral tends to be intractable, since nn often need acurate environment model
+- Variational inference
+- Variational lower bound L: similarity between phi and data set D
+- Compute aprroximation of information gain
+- Bayesian neural network to parameterize agent's dynamics model
 ####Compression: compression improvement and the variational lower bound
 ####Implement:
