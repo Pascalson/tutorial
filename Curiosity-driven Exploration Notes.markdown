@@ -7,4 +7,10 @@ Reference: Curiosity-driven Exploration in Deep Reinforcement Learning via Bayes
   - Variational Information Maximizing Exploration(VIME)
 - **Maximization of information gain** about **Agent belief of environment dynamics**
 - Bayesian neural networks(BNN), efficiently handles **continuous** state and action spaces
+
 ##Steps:
+####Preliminaries
+####Curiosity: theoretical foundation
+####Variational Bayes: Adapt curiosity to continuous control
+####Compression: compression improvement and the variational lower bound
+####Implement:
