@@ -20,4 +20,7 @@ Reference: Curiosity-driven Exploration in Deep Reinforcement Learning via Bayes
 - Bayesian neural network to parameterize agent's dynamics model
 
 ####Compression: compression improvement and the variational lower bound
+- The measurement of advance of C
+
 ####Implement:
+#####Bayesian neural network (BNN)
