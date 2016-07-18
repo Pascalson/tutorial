@@ -18,5 +18,6 @@ Reference: Curiosity-driven Exploration in Deep Reinforcement Learning via Bayes
 - Variational lower bound L: similarity between phi and data set D
 - Compute aprroximation of information gain
 - Bayesian neural network to parameterize agent's dynamics model
+
 ####Compression: compression improvement and the variational lower bound
 ####Implement:
