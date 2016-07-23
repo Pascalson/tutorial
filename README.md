@@ -10,6 +10,9 @@
   - Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning, 2015
   - Continuous Deep Q-Learning with Model-based Acceleration, 2016  (**NAF** slightly beat **DDPG**)
   - Deep Reinforcement Learning from Self-Play in Imperfect-Information Games, 2016
+- Other References:
+  - http://home.deib.polimi.it/restelli/MyWebSite/pdf/rl7.pdf
+  - http://www.stats.uwo.ca/faculty/bellhouse/Likelihood_Theory_with_Score_Function.pdf
 
 ##Git Notes:
 - http://www.ithome.com.tw/news/95283
